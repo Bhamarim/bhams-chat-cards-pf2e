@@ -1,0 +1,24 @@
+{
+  "id": "bhams-chat-cards-pf2e",
+  "title": "'Bham's chat cards for Pathfinder 2nd Edition",
+  "description": "This module overhauls chat cards UI with a few tweaks.",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "authors": [
+    {
+      "name": "Bhamarim"
+    }
+  ],
+  "system": ["pf2e"],
+  "styles": ["./css/bhams-chat-cards.css"],
+  "scripts": ["./scripts/bham-chat-cards-core.js"],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "bugs": "",
+  "readme": ""
+}
